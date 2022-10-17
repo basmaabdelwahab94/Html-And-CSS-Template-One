@@ -186,7 +186,7 @@ body{
   padding: 20px;
   text-align: center;
 }
-.features .feat i{
+.features .feat svg{
   color: var(--main-color);
 }
 .features .feat h3{
@@ -220,7 +220,7 @@ body{
     text-align: center;
   }
 }
-.services .services-content .srv i{
+.services .services-content .srv svg{
   color: var(--main-color);
   flex-basis: 60px;
 }
@@ -394,7 +394,7 @@ body{
   margin-top: 20px;
   font-size: 16px;
 }
-.contact.info .social i{
+.contact.info .social svg{
   margin-left: 10px;
   color: var(--secondary-color);
 }
